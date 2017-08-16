@@ -1,4 +1,4 @@
 cd d:/
 echo `ls`
-echo "hello"
+echo "hello123"
 echo "hello,morningstar"
